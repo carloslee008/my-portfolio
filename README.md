@@ -1,2 +1,2 @@
-# My-site
-My personal site
+# My Portfolio
+My Web Developer Portfolio
